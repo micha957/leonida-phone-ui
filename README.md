@@ -4,6 +4,8 @@
 
 <p><img src="demo/desktop.png" width="250" alt="绿色桌面，顶部有提醒卡片，下方是两排圆形应用图标"></p>
 
+[浏览器里直接试玩手机原型](https://micha957.github.io/leonida-phone-ui/)
+
 ## 本地试玩
 
 下载或克隆仓库，在项目根目录运行下面的命令。示例使用浏览器原生 ES 模块，启动静态服务器即可。
